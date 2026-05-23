@@ -7,6 +7,25 @@
     <updated>2026-05-20T00:00:00+00:00</updated>
     <id>https://ma-te.jp/en/atom.xml</id>
     <entry xml:lang="en">
+        <title>Smaregi Integration</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/en/integrations/thebase/"/>
+        <id>https://ma-te.jp/en/integrations/thebase/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/en/integrations/thebase/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Cookie Policy</title>
         <published>2026-05-20T00:00:00+00:00</published>
         <updated>2026-05-20T00:00:00+00:00</updated>
@@ -480,12 +499,22 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;ol&gt;
-&lt;li&gt;As a general rule, the system for providing this service shall operate &quot;24 hours 365 days&quot;. However, the operation will not be suspended due to unavoidable reasons such as repair and maintenance of systems or related equipment. In such cases, Ma Te Japan will give advance notice as much as possible, but in the case of natural disasters, sudden accidents, disabilities, judicial and administrative orders, etc., the notification may be omitted.&lt;&#x2F;li&gt;
+&lt;li&gt;Target Service Level Agreement for The Service is 99.9%, allowing for approximently 8hours and 45 minutes of downtime per year.&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
 &lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;Ma Te Japan shall not be liable for any damage caused to The User based on the measures taken by Ma Te Japan based on this Article.&lt;&#x2F;li&gt;
+&lt;li&gt;Downtime is meant only for The Serivce to be updated. Updates to software regularly occur as features are added and maintenance is completed.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Operation interruptions might be unavoidable in the event of natural disasters, judicial and administrative orders, or data center outage beyond our ability to predict.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;The Company shall not be liable for any damages caused to The User based on measures taken by The Company in this Article.&lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;

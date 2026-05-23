@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-
+  
 <head>
   <!-- Encoding -->
   <meta charset="UTF-8">
@@ -11,7 +11,7 @@
   <meta name="keywords" content="Inventory Management" />
   <meta name="author" content="Ma Te Japan" />
   <title>
-    Ma Te Japan
+    Integrations
     </title>
   <!-- Imports -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -31,20 +31,12 @@
   <script type="text/javascript" src="https://ma-te.jp/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 </head>
 
-<body>
-  <main>
+  <body>
+    <script>
+      window.location = '/';
+    </script>
     <section class="container content">
-      <h1 class="ma-te-header title"> Ma Te Japan </h1>
-      <p class="subtitle"> Under Construction </p>
-      <figure class="image is-128x128">
-        <img src="/images/ma-te-japan.svg" />
-      </figure>
-      <br/>
-      <div class="buttons">
-        <a class="button is-primary" href="/pages/privacy-policy-ja"> プライバシーポリシー </a>
-        <a class="button is-primary" href="/pages/cookie-policy-ja/"> クッキーポリシー </a>
-        <a class="button is-primary" href="/pages/terms-of-service-ja/"> 利用規約 </a>
-      </div>
+      <h3 class="ma-te-header"> Redirecting to Home Page </h3>
     </section>
     
 <!-- Google tag (gtag.js) -->
@@ -82,13 +74,48 @@
   });
 </script>
 
-    <script type="text/javascript">
-      gtag('set', 'content_group', 'index');
-      gtag('event', 'select_content', {
-        'content_type': 'article',
-        'content_id': 'index'
-      });
-    </script>
-  </main>
-</body>
+  </body>
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63VKWL8F0B"></script>
+<script type="text/javascript" src="https://ma-te.jp/js.cookie-3.0.5.min.js" integrity="sha256-WCzAhd2P6gRJF9Hv3oOOd+hFJi/QJbv+Azn4CGB8gfY=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://ma-te.jp/MathJax-3.2.2.js" defer></script>
+<script type="text/javascript" src="https://ma-te.jp/main.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js" integrity="sha256-6EJwvQzVvfYP78JtAMKjkcsugfTSanqe4WGFpUdzo88=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js" integrity="sha256-OMcKHnypGrQOLZ5uYBKYUacX7Rx9Ssu91Bv5UDeRz2g=" crossorigin="anonymous"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+</script>
+<script>
+  function genIden(length) {
+    var result           = '';
+    var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    var charactersLength = characters.length;
+    for ( var i = 0; i < length; i++ ) {
+        result += characters.charAt(Math.floor(Math.random() * charactersLength));
+    }
+    return result;
+  }
+  let gauid = Cookies.get('gauid');
+  if (gauid == undefined) {
+    gauid = genIden(8);
+    Cookies.set('gauid', gauid);
+  }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-63VKWL8F0B', {
+    user_id: gauid
+  });
+</script>
+
+  <script type="text/javascript">
+    gtag('set', 'content_group', '/pages');
+    gtag('event', 'select_content', {
+      'content_type': 'section',
+      'content_id': '/pages'
+    });
+  </script>
 </html>
