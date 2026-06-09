@@ -4,50 +4,62 @@
         <loc>https://ma-te.jp/</loc>
     </url>
     <url>
-        <loc>https://ma-te.jp/benchmark/</loc>
-    </url>
-    <url>
-        <loc>https://ma-te.jp/categories/</loc>
-    </url>
-    <url>
-        <loc>https://ma-te.jp/en/</loc>
-    </url>
-    <url>
-        <loc>https://ma-te.jp/en/integrations/thebase/</loc>
-        <lastmod>2026-05-20</lastmod>
-    </url>
-    <url>
-        <loc>https://ma-te.jp/en/pages/cookie-policy/</loc>
-        <lastmod>2026-05-20</lastmod>
-    </url>
-    <url>
-        <loc>https://ma-te.jp/en/pages/privacy-policy/</loc>
-        <lastmod>2026-05-20</lastmod>
-    </url>
-    <url>
-        <loc>https://ma-te.jp/en/pages/terms-of-service/</loc>
-        <lastmod>2026-05-20</lastmod>
-    </url>
-    <url>
         <loc>https://ma-te.jp/integrations/</loc>
     </url>
     <url>
-        <loc>https://ma-te.jp/integrations/smaregi-ja/</loc>
+        <loc>https://ma-te.jp/integrations/smaregi-complete-en/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/integrations/smaregi-en/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/integrations/thebase-en/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/</loc>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/benchmark/</loc>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/categories/</loc>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/integrations/smaregi-complete/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/integrations/smaregi/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/pages/cookie-policy/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/pages/privacy-policy/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/pages/terms-of-service/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
         <loc>https://ma-te.jp/pages/</loc>
     </url>
     <url>
-        <loc>https://ma-te.jp/pages/cookie-policy-ja/</loc>
+        <loc>https://ma-te.jp/pages/cookie-policy-en/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
-        <loc>https://ma-te.jp/pages/privacy-policy-ja/</loc>
+        <loc>https://ma-te.jp/pages/privacy-policy-en/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
-        <loc>https://ma-te.jp/pages/terms-of-service-ja/</loc>
+        <loc>https://ma-te.jp/pages/terms-of-service-en/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
 </urlset>

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+    <title></title>
+    <link rel="self" type="application/atom+xml" href="https://ma-te.jp/ja/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://ma-te.jp"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-05-20T00:00:00+00:00</updated>
+    <id>https://ma-te.jp/ja/atom.xml</id>
+    <entry xml:lang="ja">
+        <title>Smaregiとの統合が完了しました</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/smaregi-complete/"/>
+        <id>https://ma-te.jp/ja/integrations/smaregi-complete/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/smaregi-complete/">&lt;p&gt;Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。&lt;&#x2F;p&gt;
+&lt;div class=&quot;container columns&quot;&gt;
+  &lt;div class=&quot;column is-5 content&quot;&gt;
+    
+    &lt;h2&gt; ログインおわります &lt;&#x2F;h2&gt;
+    &lt;p&gt; 手順を記載したメールを送信しました。&lt;&#x2F;p&gt;
+    &lt;p&gt; メールをご確認ください。&lt;&#x2F;p&gt;
+    
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;column is-offset-1 is-6&quot;&gt;
+    &lt;figure class=&quot;image&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;smaregi-logo.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;figure&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregi POSを統合する</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/smaregi/"/>
+        <id>https://ma-te.jp/ja/integrations/smaregi/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/smaregi/">&lt;p&gt;Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。&lt;&#x2F;p&gt;
+&lt;div class=&quot;container columns&quot;&gt;
+  &lt;div class=&quot;column is-5&quot;&gt;
+    &lt;form method=&quot;post&quot; action=&quot;https:&amp;#x2F;&amp;#x2F;ma-te.jp&amp;#x2F;authen&amp;#x2F;login&quot;&gt;
+      &lt;h2&gt;
+      
+        Smaregi POSを統合する
+      
+      &lt;&#x2F;h2&gt;
+      &lt;div class=&quot;field&quot;&gt;
+        &lt;label class=&quot;label&quot;&gt;
+        
+          名前
+        
+        &lt;&#x2F;label&gt;
+        &lt;div class=&quot;control&quot;&gt;
+          
+          &lt;input class=&quot;input&quot; type=&quot;text&quot; name=&quot;name&quot; required=&quot;true&quot; minlength=&quot;2&quot; placeholder=&quot;e.g 綾乃先生&quot;&gt;
+          
+        &lt;&#x2F;div&gt;
+      &lt;&#x2F;div&gt;
+      &lt;div class=&quot;field&quot;&gt;
+        &lt;label class=&quot;label&quot;&gt;
+          
+          メール
+          
+        &lt;&#x2F;label&gt;
+        &lt;div class=&quot;control&quot;&gt;
+          &lt;input class=&quot;input&quot; type=&quot;email&quot; name=&quot;email&quot; required=&quot;true&quot; minlength=&quot;5&quot; placeholder=&quot;e.g. ayano-sensei@ma-te.jp&quot;&gt;
+        &lt;&#x2F;div&gt;
+      &lt;&#x2F;div&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;return_to&quot; value=&quot;smaregi&quot; &#x2F;&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;lang&quot; value=&quot;ja&quot; &#x2F;&gt;
+      &lt;div class=&quot;buttons is-right&quot;&gt;
+        &lt;button href=&quot;&quot; class=&quot;button is-primary&quot; type=&quot;submit&quot;&gt; 
+          
+          統合する
+          
+        &lt;&#x2F;button&gt;
+      &lt;&#x2F;div&gt;
+    &lt;&#x2F;form&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;column is-offset-1 is-6&quot;&gt;
+    &lt;figure class=&quot;image&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;smaregi-logo.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;figure&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Cookie Policy</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/pages/cookie-policy/"/>
+        <id>https://ma-te.jp/ja/pages/cookie-policy/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/pages/cookie-policy/">&lt;h2 id=&quot;1-kutukitoha&quot;&gt;1. クッキーとは&lt;&#x2F;h2&gt;
+&lt;p&gt;Cookieとは、ウェブサイトへのアクセス履歴を記録するために、ウェブサイトからお客様のデバイスに送信されるテキストファイルです。お客様が訪問したウェブサイトの履歴が記録されます。この情報には、特定の個人を特定できる情報は含まれません。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2-kutukinoli-yong-nituite&quot;&gt;2. クッキーの利用について&lt;&#x2F;h2&gt;
+&lt;p&gt;当ウェブサイトではクッキー技術を使用しています。クッキーを無効にすることも可能ですが、ウェブサイトの機能が正常に動作しない場合があります。&lt;&#x2F;p&gt;
+&lt;p&gt;当社は、サービスの向上を目的として、以下の目的でクッキーを使用します。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;about-the-analysis-and-use-of-cookies&quot;&gt;About the analysis and use of cookies&lt;&#x2F;h3&gt;
+&lt;p&gt;ウェブサイトの利便性とパフォーマンスを向上させるため、当社は以下のサービスを利用してウェブサイトの利用状況を収集、記録、分析しています。これらのサービスに送信される情報、利用規約、プライバシーポリシー、および無効化設定については、下記をご覧ください。&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;google-analytics-google-llc&quot;&gt;Google Analytics (Google LLC.)&lt;&#x2F;h4&gt;
+&lt;p&gt;Google Analyticsに送信される情報：デバイス&#x2F;ブラウザ、送信元IPアドレス、サイト訪問者のアクセス履歴、およびGoogle Analyticsによってサイト訪問者に付与された広告IDに関するデータ&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;[https:&#x2F;&#x2F;marketingplatform.google.com&#x2F;about&#x2F;analytics&#x2F;terms&#x2F;jp&#x2F;](Google Analytics Terms of Use)&lt;&#x2F;li&gt;
+&lt;li&gt;[https:&#x2F;&#x2F;policies.google.com&#x2F;privacy?hl=ja](Google Privacy Policy)&lt;&#x2F;li&gt;
+&lt;li&gt;[https:&#x2F;&#x2F;tools.google.com&#x2F;dlpage&#x2F;gaoptout](Google Analytics Opt Out Addon)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;sitest-glad-cube-inc&quot;&gt;SiTest (Glad Cube Inc.)&lt;&#x2F;h4&gt;
+&lt;p&gt;SiTestに送信される情報：SiTestによってサイト訪問者に付与されたID&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;clarity.microsoft.com&#x2F;terms&quot;&gt;Microsoft Clarity - Terms of Use&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;privacy.microsoft.com&#x2F;ja-jp&#x2F;privacystatement&quot;&gt;Microsoft Privacy Statement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;sitest.jp&#x2F;optout.html&quot;&gt;SiTest Opt-Out&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;maketeinguhuo-dong-henoli-yong&quot;&gt;マーケティング活動への利用&lt;&#x2F;h3&gt;
+&lt;p&gt;当社は、ウェブサイトを訪問されたお客様からクッキーを取得・利用し、各社が提供するサービスに関連する広告を配信するために、以下の広告配信事業者と提携しています。これらの事業者に送信される情報、プライバシーポリシー、および無効化設定については、下記をご覧ください。&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;google-ads-google-llc&quot;&gt;Google Ads (Google LLC.)&lt;&#x2F;h4&gt;
+&lt;p&gt;Googleに送信される情報：訪問者のアクセス履歴&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;policies.google.com&#x2F;terms?hl=ja&quot;&gt;Google Policies and Terms&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;myadcenter.google.com&#x2F;&quot;&gt;Customize MyAd Settings by Google&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;facebook-ads-meta-platforms-inc&quot;&gt;Facebook Ads (Meta Platforms, Inc.)&lt;&#x2F;h4&gt;
+&lt;p&gt;Facebookに送信される情報：「いいね！」ボタン、FacebookページとFacebookプロフィールの情報、サイト訪問者のアクセス履歴&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&quot;&gt;Meta Privacy Policy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;about&#x2F;ads&#x2F;&quot;&gt;About Facebook Ads&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;3-burauzanoshe-ding-niyorikutukiwowu-xiao-nisurufang-fa&quot;&gt;3. ブラウザの設定によりクッキーを無効にする方法&lt;&#x2F;h2&gt;
+&lt;p&gt;お使いのデバイスに保存されるCookieは、一定期間保存されます（ユーザー自身で削除することも可能です）。ほとんどのブラウザでは、初期設定でCookieの受け入れが有効になっていますが、ブラウザの設定を変更することでCookieを無効にすることもできます。ただし、Cookieを無効にすると、ウェブサイトが正しく動作しなくなる場合があります。一般的なブラウザでCookieの設定を変更する方法は以下のとおりです。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.google.com&#x2F;chrome&#x2F;answer&#x2F;95647&quot;&gt;Google Chrome&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.apple.com&#x2F;ja-jp&#x2F;guide&#x2F;safari&#x2F;sfri11471&#x2F;mac&quot;&gt;Apple Safari (macOS)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.apple.com&#x2F;ja-jp&#x2F;HT201265&quot;&gt;Apple Safari (iOS&#x2F;iPad OS)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.microsoft.com&#x2F;ja-jp&#x2F;windows&#x2F;microsoft-edge-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd&quot;&gt;Microsoft Edge&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.mozilla.org&#x2F;ja&#x2F;kb&#x2F;cookies-information-websites-store-on-your-computer&quot;&gt;Mozilla Firefox&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;4-ben-porisinogai-ding-nituite&quot;&gt;4. 本ポリシーの改定について&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;当社は、本ポリシーに記載されているクッキーの取り扱いについて、継続的に見直し、改善していきます。&lt;&#x2F;li&gt;
+&lt;li&gt;当社は、クッキーの適切な取り扱いを実践するため、本ポリシーの内容を随時改訂することがあります。改訂履歴は、本ポリシーの補足規定に掲載されます。ご利用の際は、最新の内容をご確認ください。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;fu-ze&quot;&gt;附則&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ポリシー掲載日：2026年5月20日&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>プライバシーポリシー</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/pages/privacy-policy/"/>
+        <id>https://ma-te.jp/ja/pages/privacy-policy/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/pages/privacy-policy/">&lt;p&gt;株式会社Ma Te Japanは、個人情報の機密保持に細心の注意を払っており、お客様にプライバシー保護に関する当社の規定をご理解いただくことで、より良いサービスを提供できると考えています。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;1-ge-ren-qing-bao-noding-yi&quot;&gt;1. 個人情報の定義&lt;&#x2F;h2&gt;
+&lt;p&gt;本ポリシーにおける「個人情報」とは、個々の顧客を個別に、または組み合わせることによって識別できる以下の情報を意味します。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A: Name&lt;&#x2F;li&gt;
+&lt;li&gt;B: Date of birth&lt;&#x2F;li&gt;
+&lt;li&gt;C: Address&lt;&#x2F;li&gt;
+&lt;li&gt;D: Phone number&lt;&#x2F;li&gt;
+&lt;li&gt;E: Fax number&lt;&#x2F;li&gt;
+&lt;li&gt;F: E-mail address&lt;&#x2F;li&gt;
+&lt;li&gt;G: Financial institution name, branch name, account number and name&lt;&#x2F;li&gt;
+&lt;li&gt;H: Information by image, video, and audio&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2-ge-ren-qing-bao-noxi-iniguan-suruji-ben-de-nakao-efang&quot;&gt;2. 個人情報の扱いに関する基本的な考え方&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;当社及び当社の従業員（役員、従業員、派遣社員、契約社員等、その他当社の事業に携わる役員、従業員、派遣社員、契約社員等を含むすべての者）は、個人情報保護法及び本プライバシーポリシー等関連法令を厳格に遵守し、情報の漏洩、改ざん、紛失及び不正取得を防止するよう努める。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;当社は個人情報を正確かつ最新の状態に保つよう努めます。ただし、利用履歴を管理するため、過去の情報も保持いたします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;当社は、従業員の個人情報が安全に管理されるよう、適切な監督を行います。また、個人情報の保護を徹底するため、全従業員に対し定期的に教育と指導を実施します。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;個人情報に関するお問い合わせやご要望は、受付&lt;a href=&quot;https:&#x2F;&#x2F;ma-te.jp&#x2F;ja&#x2F;pages&#x2F;privacy-policy&#x2F;reception@ma-te.jp&quot;&gt;reception@ma-te.jp&lt;&#x2F;a&gt;までご連絡ください。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;3-ge-ren-qing-bao-nobao-hu-shou-duan&quot;&gt;3. 個人情報の保護手段&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;当社は個人情報の管理業務を全面的に外部委託することはありません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;企業間の情報保護は、提携企業、関連会社、および&#x2F;または提携企業間の秘密保持契約に基づいています。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;当社は、最新の暗号化ソフトウェアを使用して、お客様のセキュリティに関するベストプラクティスを導入および更新します。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;当社は個人情報を紙媒体で記録していません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;個人情報がファックスで送信された場合、当社はそれをデジタル化し、お客様のコピーを直ちに破棄します。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;4-ge-ren-qing-bao-noli-yong-mu-de&quot;&gt;4. 個人情報の利用目的&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;1-oke-sama&quot;&gt;1. お客さま&lt;&#x2F;h3&gt;
+&lt;p&gt;当社は、サービスの提供および改善、ならびに適切な販売促進活動の推進を目的として、以下の目的に従ってお客様の個人情報を収集および使用します。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A: サービスの提供および製品の販売&lt;&#x2F;li&gt;
+&lt;li&gt;B: サービス管理に関する質問、回答、および通知&lt;&#x2F;li&gt;
+&lt;li&gt;C: 月額利用料等の移転、および代理店手数料等の移転&lt;&#x2F;li&gt;
+&lt;li&gt;D: 満足度、方針、嗜好などに関するアンケート調査&lt;&#x2F;li&gt;
+&lt;li&gt;F: 電子メールマガジン、ダイレクトメール、ファクシミリなどによる各種情報の送信、および広告の配布&lt;&#x2F;li&gt;
+&lt;li&gt;G: 応答履歴と内容の管理、サービス品質の向上&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;2-qu-yin-xian&quot;&gt;2. 取引先&lt;&#x2F;h3&gt;
+&lt;p&gt;当社は、提携企業、関連会社、およびパートナー企業が保有する個人情報を、以下の目的に沿って収集および利用します。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A: サービスの提供&lt;&#x2F;li&gt;
+&lt;li&gt;B: サービス管理に関する質問、回答、および通知&lt;&#x2F;li&gt;
+&lt;li&gt;C: 契約締結およびビジネスパートナーの見直し&lt;&#x2F;li&gt;
+&lt;li&gt;D: 統計調査のために ( &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Data_anonymization&quot;&gt;データ匿名化後&lt;&#x2F;a&gt; )&lt;&#x2F;li&gt;
+&lt;li&gt;E: 業務上の偶発事故またはセキュリティインシデントに関する報告&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;3-cong-ye-zhe-deng&quot;&gt;3. 従業者等&lt;&#x2F;h3&gt;
+&lt;p&gt;当社は、従業員および応募者の個人情報を、以下の目的に従って収集および利用します。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A: 採用選考および社内コミュニケーション&lt;&#x2F;li&gt;
+&lt;li&gt;B: 人事、健康、セキュリティなどの管理&lt;&#x2F;li&gt;
+&lt;li&gt;C: 社会労働保険の手続き、税金の徴収と納付&lt;&#x2F;li&gt;
+&lt;li&gt;D: 上記に付随し、関連する事業&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;従業員の個人情報は、関連法令に基づき保管が義務付けられている期間保管した後、順次破棄いたします。また、採用に至らなかった方の履歴書等は直ちに破棄し、当社は一切保管いたしません。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;4-gong-tong-shi-xiang&quot;&gt;4. 共通事項&lt;&#x2F;h3&gt;
+&lt;p&gt;個人情報を1～3の利用目的以外で取り扱う場合は、事前に本人の同意を得ます。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;5-shi-zheng-naqu-de-oyobizui-xiao-xian-yuan-ze&quot;&gt;5. 適正な取得および最小限原則&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;当社は、個人情報を合法かつ適切に取得し、虚偽その他の違法な手段によって取得することはありません。&lt;&#x2F;li&gt;
+&lt;li&gt;当社は、法律で義務付けられている場合を除き、人種、信条、病歴などを含む機密性の高い個人情報を、事前に本人の同意を得ることなく取得することはありません。&lt;&#x2F;li&gt;
+&lt;li&gt;当社が取得する個人情報は「４．個人情報の利用目的」に該当し、Ma Te Japanの運営に必要な最小限のものに限定されます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;6-burauzaniguan-suruzhu-yi-shi-xiang&quot;&gt;6. ブラウザに関する注意事項&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;akusesurogu&quot;&gt;アクセスログ&lt;&#x2F;h3&gt;
+&lt;p&gt;お客様が当社のウェブサイトにアクセスした際の情報は、アクセスログとして記録されます。アクセスログには、アクセス元のホスト名、IPアドレス、使用ブラウザ、OSの種類、アクセス日時などが含まれますが、個人情報は含まれません。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;kutuki-cookie&quot;&gt;クッキー（Cookie)&lt;&#x2F;h3&gt;
+&lt;p&gt;当社は、サービスの向上と円滑な運営を目的として、クッキーと呼ばれる技術を使用しています。クッキーは、お客様が使用しているデバイスを識別するために使用されますが、個人情報は一切収集しません。ただし、クッキーによって収集されたウェブサイトへのアクセス状況を個人情報と関連付ける場合は、当該個人の同意を得ます。クッキーの使用目的の詳細については、&lt;a href=&quot;&#x2F;cookie-policy&quot;&gt;クッキーポリシー&lt;&#x2F;a&gt;をご参照ください。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;tls-transport-layer-security&quot;&gt;TLS (Transport Layer Security)&lt;&#x2F;h3&gt;
+&lt;p&gt;当社では、TLSと呼ばれる認証および暗号化方式を使用しています。TLSは、お客様のデバイスとサーバー間の通信を暗号化することで、ウェブサイトの存在を検証し、情報への不正アクセスを防止する技術です。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;7-ge-ren-qing-bao-nozhao-hui-bian-geng-kai-shi&quot;&gt;7. 個人情報の照会・変更・開示&lt;&#x2F;h2&gt;
+&lt;p&gt;弊社へのお問い合わせ履歴、ご利用履歴等をお持ちで、現在弊社をご利用されていない方で、弊社に情報が登録されているか確認されたい場合は、&lt;a href=&quot;mailto:reception@ma-te.jp&quot;&gt;reception@ma-te.jp&lt;&#x2F;a&gt;までご連絡ください。弊社が保有する情報は開示いたしますが、お客様と情報を共有することはありません。弊社システムからの情報削除をご希望の場合は、その旨をお知らせください。第三者ソフトウェアの開示および削除については、各ソフトウェア会社にお問い合わせください。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;8-di-san-zhe-nidui-suruge-ren-qing-bao-nokai-shi&quot;&gt;8. 第三者に対する個人情報の開示&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;サービスに関する個人情報は、信頼できる関係者のみに共有され、提携企業すべてと機密保持契約が締結されます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;製品の使用方法に関するご案内、請求書、配送業者への情報提供のため、配送先の「氏名、住所、電話番号」を配送業者に開示いたします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;当社は、当該人物の同意がある場合、または前２項及び後項に該当する場合を除き、個人情報を第三者に開示または提供しません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A: 行政機関または司法機関から調査または調査協力の要請を受けた場合&lt;&#x2F;li&gt;
+&lt;li&gt;B: 会社は、公共の福祉と安全を確保し維持するために必要であると判断した場合&lt;&#x2F;li&gt;
+&lt;li&gt;C: Ma Te Japanが利用する決済機関から適切な手続きに基づき個人情報に関する問い合わせを受けた場合&lt;&#x2F;li&gt;
+&lt;li&gt;D: Ma Te Japanが、会社分割時または適切な理由により、その運営権の全部または一部を第三者に譲渡する場合（事業分割または運営権の譲渡の場合は、すべてのユーザーに事前に通知します）、&lt;&#x2F;li&gt;
+&lt;li&gt;E: 当社が特定の目的に基づいて第三者に個人情報を提供する意図があり、かつ当該事案に関して顧客の事前の同意を得ている場合&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;9-tong-xin-lu-li-noqu-rixi-i&quot;&gt;9. 通信履歴の取り扱い&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;当社は、当社が提供するサービスの通信機器（サーバー、ネットワーク機器など）を通過するメタデータ（IPアドレス、通信日時、ポート番号など）を取得し、課金、料金徴収、セキュリティ確保、技術向上に利用します。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;当社は、最初の段落および以下の場合を除き、取得したメタデータを第三者に開示または提供しません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A: お客様から開示および提供に関する同意を得た場合&lt;&#x2F;li&gt;
+&lt;li&gt;B: 裁判官が発行した令状に従う必要がある場合&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;10-ni-ming-jia-gong-qing-bao-noqu-rixi-i&quot;&gt;10. 匿名加工情報の取り扱い&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;当社は、当社が保有する個人情報から匿名処理情報（特定の個人を識別できないように個人情報を処理した情報）を作成し、サービスや広告等における利便性の向上を目的として第三者に提供し、また、サービスや広告等における利便性の向上を目的として第三者に提供し、開発することがあります。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;匿名化された情報を作成する際には、以下の措置を講じます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A: 法令で定められた基準に従って、適切な処理を行う。&lt;&#x2F;li&gt;
+&lt;li&gt;B: 削除された情報および処理方法の漏洩を防ぐため、適切な安全管理措置を講じる。&lt;&#x2F;li&gt;
+&lt;li&gt;C: 匿名処理された情報に含まれる情報項目を公開する&lt;&#x2F;li&gt;
+&lt;li&gt;D: 個人情報の個人特定を禁止する&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;当社が匿名処理した情報を第三者に提供する場合、提供する情報が匿名化されていることを明示します。また、提供する匿名処理情報に含まれる項目および方法は以下のとおりです。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A: Gender&lt;&#x2F;li&gt;
+&lt;li&gt;B: Year&lt;&#x2F;li&gt;
+&lt;li&gt;C: Industry &#x2F; Job&lt;&#x2F;li&gt;
+&lt;li&gt;D: Address ( Prefecture or Regional Locality. )&lt;&#x2F;li&gt;
+&lt;li&gt;E: Year of Use&lt;&#x2F;li&gt;
+&lt;li&gt;F: Service usage status &amp;amp; History&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;匿名処理された情報の取り扱いに関してご質問がある場合は、&lt;a href=&quot;mailto:reception@ma-te.jp&quot;&gt;reception@ma-te.jp&lt;&#x2F;a&gt;までお問い合わせください。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;11-ge-ren-qing-bao-nobao-hu-niguan-suruze-ren-fan-wei&quot;&gt;11. 個人情報の保護に関する責任範囲&lt;&#x2F;h2&gt;
+&lt;p&gt;当社ウェブサイトにリンクされている他サイトの個人情報管理基準およびコンテンツは、当社の管理外です。Ma Te Japanは、Ma Te Japanの製品およびサービス以外のウェブサイトでお客様が入力した情報について責任を負いません。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;12-zhun-ju-fa-tohe-yi-guan-xia&quot;&gt;12. 準拠法と合意管轄&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;当社のウェブサイトにアクセスするお客様と当社は、日本の法律および規制に従って責任を負います。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;当社とお客様との間で紛争が生じた場合、当社は誠意をもってお客様と協議するものとします。協議が成立しない場合は、Ma Te Japanの本社所在地を管轄する裁判所を第一審の管轄裁判所とします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;13-ben-porisinogai-ding-nituite&quot;&gt;13. 本ポリシーの改定について&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;当社は、本ポリシーに記載されている個人情報の取り扱いについて、継続的に見直し、改善していきます。&lt;&#x2F;li&gt;
+&lt;li&gt;当社は、個人情報の適切な取り扱いを実践するため、本ポリシーの内容を随時変更することがあります。改訂履歴は、本ページの補足規定に掲載されます。ご利用の際は、最新の内容をご確認ください。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;fu-ze&quot;&gt;附則&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ポリシー掲載日：2026年5月20日&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>サービス利用規約</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/pages/terms-of-service/"/>
+        <id>https://ma-te.jp/ja/pages/terms-of-service/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/pages/terms-of-service/">&lt;ul&gt;
+&lt;li&gt;Editor Notes
+&lt;ul&gt;
+&lt;li&gt;Change Ma Te Japan -&amp;gt; 当社&lt;&#x2F;li&gt;
+&lt;li&gt;Change 本利用規約 -&amp;gt; 本規約 ( Shorter Version )&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;ma-te-japanli-yong-gui-yue&quot;&gt;Ma Te Japan利用規約&lt;&#x2F;h2&gt;
+&lt;p&gt;本利用規約（以下「本規約」といいます）は、Ma Te Japan（以下「当社」といいます）が提供するサービス（以下「本サービス」といいます）の条件、および当社と本サービスの利用者（以下「利用者」といいます）との間の権利義務を規定するものです。本サービスをご利用になる際は、本規約全文をお読みになり、同意いただく必要があります。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;di-1tiao-shi-yong&quot;&gt;第1条（適用）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;本規約は、本サービスの提供条件、および本サービスの利用に関する当社とユーザー間の権利義務を定めることを目的としており、当社とユーザー間の本サービスの利用に関連するすべての関係に適用されます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;当社が自社ウェブサイトに掲載する本サービスの利用に関する規則は、本規約の一部を構成するものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;本規約の内容が、前項に規定された規則、または本規約以外のサービスに関するその他の説明と異なる場合、本規約の規定が優先するものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-2tiao-ding-yi&quot;&gt;第2条（定義）&lt;&#x2F;h2&gt;
+&lt;p&gt;本規約で使用される以下の用語は、以下に定める意味を有するものとします。&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;「サービス利用規約」とは、本契約および当社とユーザーとの間のサービス利用規約の利用を意味します。&lt;&#x2F;li&gt;
+&lt;li&gt;「当社」とは、「サービス」を提供するMa Te Japanを指します。&lt;&#x2F;li&gt;
+&lt;li&gt;「利用者」とは、第3条（申込み）に基づき、本サービスの利用者として申込みすることに同意した個人、法人、または組織を意味します。&lt;&#x2F;li&gt;
+&lt;li&gt;「本サービス」とは、Ma Te Japanが提供するサービス（名称またはサービス内容が何らかの理由で変更された場合は、変更後のサービスを含む）を意味します。&lt;&#x2F;li&gt;
+&lt;li&gt;「ウェブサイト」とは、Ma Te Japanが運営するこのウェブサイト、または第2階層ドメインが「ma-te.jp」である複数のウェブサイトを指します。&lt;&#x2F;li&gt;
+&lt;li&gt;「地元所有ビジネス」とは、POS端末やEコマースウェブサイトなどの消費者向けアプリケーションを使用して販売を行う実店舗を指します。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-3tiao-shen-ip-mi&quot;&gt;第3条（申込み）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;個人が本サービスを利用することを承認する際には、メールアドレス、電話番号、氏名、所有する事業所の住所などの身分証明書を提示する必要があります。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;以下の条件を満たしていれば、引き続き当社のサービスをご利用いただけます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A: 統合しようとしているサービスは、完全所有の地元企業によるものです。&lt;&#x2F;li&gt;
+&lt;li&gt;B: 統合するサービスは、所有する地元企業の代表者によって完全に運営されています。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;当社は、申請者が以下のいずれかの理由に該当する場合、申請を拒否することができ、当社はその理由を開示する義務を負わないものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;当社に提供された登録項目に虚偽、誤り、または漏れがある場合。&lt;&#x2F;li&gt;
+&lt;li&gt;未成年者、成人後見人、被保険者または補助者であり、法定代理人、成人後見人、保佐人または補助者等の同意を得ていない場合。
+REWRITE - 反社会的勢力等（反社会的勢力、暴力団、組織犯罪グループ、総会、社会政治運動、特殊情報暴力団、その他これらに準ずる反社会的勢力をいう。）当社が、以下「反社会的勢力等」とみなすか、または資金提供等を通じて反社会的勢力等の維持、運営、管理に協力するなど、反社会的勢力等と何らかの相互作用や関与を行っていると判断する場合。&lt;&#x2F;li&gt;
+&lt;li&gt;当社が、ユーザーが当社のサービスを通じて、自身または第三者を使って暴力行為、詐欺、脅迫、事業妨害、その他の違法行為を行っていると判断した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;当社が、過去に当社との契約に違反した人物であると判断した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;当社が第12条に規定する措置を受けた場合、または当社が措置を受ける可能性があると判断した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;当社がユーザーの同意が適切でないと判断した場合。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-4tiao-ben-sabisunoti-gong-bian-geng-zhong-liao&quot;&gt;第4条（本サービスの提供、変更、終了）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;当社は、本利用規約に基づき、ユーザーにサービスを提供します。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;当社は、サービスを利用するために使用する管理コンソールのアカウントをユーザーに付与するものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;当社は、利用者の同意を得ることなく、サービスの内容を変更したり、サービスの提供を終了したりすることができます。当社がサービスの内容を変更する場合、その変更はサービス提供者としての常識、良識、誠意等に基づいて行われます。当社がサービスの提供を終了する場合、当社は利用者に事前に通知します。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;当社は、本条に基づき当社が講じた措置によりユーザーに生じた損害について一切責任を負いません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-5tiao-li-yong-liao-jin-zhi-fu-qi-ri-oyobizhi-fu-fang-fa&quot;&gt;第5条（利用料金、支払期日および支払方法）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;利用者は、本サービスの利用に対する対価として、Ma Te Japanが指定する支払方法に基づき、初期費用、本サービス利用契約に基づく利用料金、および消費税相当額（以下「利用料金等」という）をMa Te Japanに支払うものとする。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;利用料金等の支払い方法は以下のとおりです。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;利用料金等の支払いは、Ma Te Japanが指定する銀行口座への振込、または口座からの引き落としで行うものとします。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanは、請求書発行のための初期同意を得るために&lt;a href=&quot;https:&#x2F;&#x2F;ma-te.jp&#x2F;ja&#x2F;pages&#x2F;terms-of-service&#x2F;square.com&quot;&gt;square.com&lt;&#x2F;a&gt;と提携しています。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanの請求サイクルは、毎月1日から始まり、毎月末日に終了します。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanは、毎月末日に当月分の利用料金等の精算を行い、請求サイクル月の翌月15日までに請求書を発行するものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;利用者が利用料金等の支払いを遅延した場合、請求書の支払いが完了するまでサービスは一時停止されます。支払い完了後、サービスは利用者に対して引き続き提供されます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-6tiao-jin-zhi-shi-xiang&quot;&gt;第6条（禁止事項）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;利用者は、本サービスを利用する際に、以下の項目に記載されている行為を行ってはならない。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;法律に違反する行為、または犯罪に関連する行為&lt;&#x2F;li&gt;
+&lt;li&gt;公序良俗に反する行為&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanまたは第三者の著作権、特許権、意匠権、商標権その他の権利を侵害する行為&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanまたは第三者に不利益、損害、または不快感を与える行為&lt;&#x2F;li&gt;
+&lt;li&gt;コンピュータウイルスなどの有害なコンピュータプログラムの配布&lt;&#x2F;li&gt;
+&lt;li&gt;本サービスの安定的な運用を技術的にも事実的にも阻害する行為&lt;&#x2F;li&gt;
+&lt;li&gt;サービスのネットワークまたはシステムへの過負荷&lt;&#x2F;li&gt;
+&lt;li&gt;本サービスの運営を妨げる可能性のある行為&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanが不適切とみなすその他の行為&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Ma Te Japanは、サービス契約を解除し、サービスの利用を停止し、サービスを使用した電子メールの配信を停止し、その他Ma Te Japanが適切と判断する措置を講じることができます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Ma Te Japanは、本条に記載されているMa Te Japanが講じた措置に基づいてユーザーに生じた損害について一切責任を負いません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-7tiao-xing-neng-nobu-bao-zheng&quot;&gt;第7条（性能の不保証）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;お客様が、当社が推奨する利用環境（以下「推奨環境」といいます）以外で本サービスをご利用になった場合、本サービスの一部の機能が利用できない、操作が不便になる、期待される効用が得られないなどの問題が生じる可能性があります。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;推奨環境下であっても、様々な事情により前項に規定する問題が発生する可能性があり、Ma Te Japanは推奨環境下における本サービスの品質、機能等を保証するものではありません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-8tiao-sabisunoyun-yong-guan-li-oyobipin-zhi-gai-shan&quot;&gt;第8条（サービスの運用管理および品質改善）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 本サービスの目標サービスレベル契約は99.9%であり、年間約8時間45分のダウンタイムを許容しています。&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;サービス停止時間は、サービスの更新作業のみを目的としています。ソフトウェアの更新は、機能の追加やメンテナンスの完了に伴い、定期的に行われます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;自然災害、司法命令や行政命令、あるいは予測不可能なデータセンターの停止などが発生した場合、業務の中断は避けられない可能性があります。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;本条において当社が講じた措置に基づき、ユーザーに生じた損害について、当社は一切責任を負わないものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-9tiao-li-yong-zhe-noguan-li&quot;&gt;第9条（利用者の管理）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;利用者は、自身のメールデータ等の保存およびコンピュータウイルスなどの有害データに対する対策を自己の費用と責任において行うものとし、Ma Te Japanはこれらについていかなる保証もせず、それによって生じるいかなる損害に対しても責任を負わないものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;利用者は、以下のとおり本サービスを利用する義務を負うものとします。また、利用者がこれらの条件に違反し、Ma Te Japanが本サービスの提供を中止すると判断した場合、当社は利用者に対し警告を発したり、サービスの提供を一時停止したり、本契約を解除したりすることができ、利用者はこれに一切異議を唱えないものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-10tiao-ze-ren-nozhi-xian-mian-ze&quot;&gt;第10条（責任の制限、免責）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;Ma Te Japanは、本サービスがユーザーの特定の目的に適していること、有用であること、特定のプログラムの仕様に欠陥がないことなどを保証するものではありません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Ma Te Japanは、本サービスを利用するユーザーに対するいかなる損害、利用不能、または本サービスに関連してユーザーに生じたその他の損害について、一切責任を負いません。ただし、Ma Te Japan自身の故意または重大な過失によって生じた損害については、この限りではありません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;前項の規定に従ってMa Te Japanが損害賠償責任を負う場合であっても、Ma Te Japanは、当事者が予見していたか否かにかかわらず、特別な事情から生じる損害、結果的損害、付随的損害、逸失利益、その他の間接的損害について責任を負わないものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Ma Te Japanは、本サービスに関連してユーザーと他のユーザーまたは第三者との間で発生する取引、通信、紛争等について一切責任を負いません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-11tiao-zhi-de-cai-chan-quan&quot;&gt;第11条（知的財産権）&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;本サービスの利用のためにユーザーに提供されるソフトウェア、コンテンツ、素材、商標などのすべての知的財産権（著作権、商標権、特許権等）は、Ma Te Japanまたは正当な権利を有する第三者に帰属します。ユーザーは、本サービスを利用することによって、これらの知的財産権に関するいかなる権利も取得しません。また、ユーザーは、本サービス提供者の事前の書面による同意なしに、複製、改変、配布、譲渡、展示、実行、販売、ライセンス供与その他の方法により、本サービスのコンテンツの全部または一部を使用することはできません。&lt;&#x2F;li&gt;
+&lt;li&gt;利用者が前項に規定する知的財産権の侵害によりMa Te Japanまたは第三者に損害を与えた場合、利用者はその損害について責任を負うものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;di-12tiao-li-yong-ting-zhi-qi-yue-jie-chu&quot;&gt;第12条（利用停止、契約解除）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;Ma Te Japanは、ユーザーが以下のいずれかの理由に該当する場合、事前の通知またはユーザーへの通知なしに、サービスの利用を一時的に停止するか、サービス利用契約を解除することができます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;本利用規約のいずれかの条項に違反した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;登録事項に虚偽または不正な事実が発見された場合。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanが、本サービスが違法または不当な目的で使用されていると判断した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanは、ユーザーが過去に本サービスを不正利用したこと、またはMa Te Japanが本サービスと同様の方法で本サービスを不正利用した個人、企業、組織と何らかの関係があることを発見した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanは、ネットワーク、システム、およびサービス利用者の保護のため、サービスの提供を一時停止するか、契約を解除する必要があると判断した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;業務停止処分を受けた場合、支払不能となった場合、または破産手続きの開始、民事再生手続きの開始、会社再生手続きの開始、特別清算の開始、もしくは類似の手続きを申し立てた場合。&lt;&#x2F;li&gt;
+&lt;li&gt;3ヶ月以上連続してサービスをご利用にならない場合。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanの担当者からの問い合わせやその他の回答依頼に30日以上応答がない場合。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanは、ユーザーまたはユーザーの関連会社もしくは関係会社が反社会的勢力等の影響下にある、または反社会的勢力等の影響下にあると判断した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;指紋採取や小切手による非交通違反処分を受けた場合、または銀行取引が停止された場合。&lt;&#x2F;li&gt;
+&lt;li&gt;さらに、Ma Te Japanは、本サービスの利用が不適切であると判断した場合、または本サービスの利用契約を継続する場合。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;前項のいずれかの理由に該当する場合、利用者は当然、Ma Te Japanに対する債務の期限の利益を失い、直ちにMa Te Japanに対するすべての債務を支払わなければならない。&lt;&#x2F;li&gt;
+&lt;li&gt;Ma Te Japanは、本条に基づきMa Te Japanが行った行為の結果としてユーザーに生じた損害について一切責任を負いません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;di-13tiao-li-yong-qi-jian-jie-yue&quot;&gt;第13条（利用期間、解約）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;本サービス契約の有効期間は、原則として月末までとします。ただし、申込時に指定された最低利用期間を除きます。ユーザーが請求月の10日までに電子メールでMa Te Japanに通知しない限り、本サービスの購読は翌月も自動的に更新され、本サービスまたは電子メール（reception@ma-te.jp）で本サービスの解約通知が届くまで、自動的に更新され続けます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;サービス契約の有効期間中にサービスを解約する場合、解約月の末日までに、残存期間等に相当する利用料金等をすべてMa Te Japanに一括で支払うものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-14tiao-ben-sabisunoli-yong-zhong-liao-hou-nodui-ying&quot;&gt;第14条（本サービスの利用終了後の対応）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;利用者は、サービス契約の終了までに、サービスの管理コンソールから必要な配布ログデータ等のダウンロードを完了しなければならなりません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;本サービス利用契約終了後、当社はユーザーの必要不可欠なアカウント情報以外のすべてのデータを削除します。ユーザーが本サービス利用契約終了後にデータの提供を要求した場合でも、ユーザーにデータを提供することはできません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Ma Te Japanは、前項に定める措置及び行為の結果として利用者に生じた損害等について、一切責任を負わないものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-15tiao-li-yong-zhe-ce-nomi-mi-bao-chi&quot;&gt;第15条（利用者側の秘密保持）&lt;&#x2F;h2&gt;
+&lt;p&gt;Ma Te Japanの事前の書面による同意がない限り、ユーザーは、Ma Te Japanが本サービスのガイドラインおよび基本原則に関連して開示した非公開情報を機密として取り扱うものとします。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;di-16tiao-dang-she-ce-nomi-mi-bao-chi&quot;&gt;第16条（当社側の秘密保持）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;Ma Te Japanは、本サービスにおいて利用者のログおよび実施された診断結果を除き、業務の過程で取得した不正な情報を第三者に開示しないものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;以下のいずれかの事由が発生した場合、Ma Te Japanは、ユーザーの登録事項および前項に記載された情報を開示することがあります。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;法律または裁判所もしくはその他の行政機関の命令により開示が強制される場合。&lt;&#x2F;li&gt;
+&lt;li&gt;法的権限を有する公的機関からの照会、または法律や規制に基づくその他の照会があった場合。&lt;&#x2F;li&gt;
+&lt;li&gt;さらに、捜査当局または行政当局と協力することが適切であると判断した場合。&lt;&#x2F;li&gt;
+&lt;li&gt;ユーザーから明示的な許可を得た場合。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;本条第1項の規定にかかわらず、Ma Te Japanは、本サービス（オプションサービスを含む）の提供にあたり、Ma Te Japanが選定した下請業者等に対し、業務の遂行に必要な情報を開示することができる。Ma Te Japanは、本項に基づき情報を開示する際には、下請業者等に対し、適切な守秘義務を課すものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-17tiao-li-yong-zhe-nodeng-lu-shi-xiang-noqu-rixi-i&quot;&gt;第17条（利用者の登録事項の取り扱い）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;Ma Te Japanによるユーザー登録項目の取り扱いは、&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ma-te.jp&#x2F;privacy&#x2F;&quot;&gt;Ma Te Japanのプライバシーポリシー&lt;&#x2F;a&gt;の規定に従って行われ、ユーザーはMa Te Japanがプライバシーポリシーに従ってユーザーの情報を処理することに同意するものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Ma Te Japanは、ユーザーから提供された情報、データ等について、ユーザーを特定しない形式で統計情報として、独自の裁量で使用および開示する場合があります。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-18tiao-ben-gui-yue-deng-nobian-geng&quot;&gt;第18条（本規約等の変更）&lt;&#x2F;h2&gt;
+&lt;p&gt;Ma Te Japanは、本利用規約を変更する場合があります。Ma Te Japanは、変更内容をユーザーに通知し、ユーザーが変更通知後、Ma Te Japanが指定する期間内にサービスを利用した場合、または解約手続きを行わなかった場合、ユーザーは本規約の変更に同意したものとみなされます。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;di-19tiao-tong-zhi-deng-lu-shi-xiang-nobian-geng&quot;&gt;第19条（通知、登録事項の変更）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;Ma Te Japanが本利用規約に基づいてユーザーに対して行う通知は、Ma Te Japanへの申し込み時の登録場所または電子メールアドレス宛てに、書面または電子メールで行うものとします。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;利用者は、登録事項に変更が生じた場合、Ma Te Japanが指定する方法により、遅滞なくMa Te Japanにその変更を通知しなければなりません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;ユーザーが電子通知を受信しなかった場合、ユーザーの住所がサービスに登録されている場合は、ユーザーは郵送による書面通知を要求することができます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-20tiao-sabisuli-yong-qi-yue-shang-nodi-wei-norang-du-deng&quot;&gt;第20条（サービス利用契約上の地位の譲渡等）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;当社の事前の書面による同意なしに、サービス契約に基づくお客様の地位、または本規約に基づくお客様の権利もしくは義務を、いかなる第三者に対しても譲渡、移転、担保設定、またはその他の方法で処分することはできません。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Ma Te Japanが本サービスに関連する事業を他の会社に譲渡する場合、Ma Te Japanは、本サービス利用契約に基づく地位、本契約に基づく権利義務、ならびに利用者の登録項目その他の利用者情報を、事業譲渡先の会社に譲渡することができるものとし、利用者は、本条においてかかる譲渡に事前に同意したものとみなされます。本項に定める事業譲渡には、通常の事業譲渡だけでなく、Ma Te Japanの分割その他事業が譲渡される場合も含まれます。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;di-21tiao-fen-li-ke-neng-xing&quot;&gt;第21条（分離可能性）&lt;&#x2F;h2&gt;
+&lt;p&gt;本利用規約のいずれかの条項またはその一部が、消費者契約法またはその他の法令により無効または執行不能と判断された場合でも、本利用規約の残りの条項および無効または執行不能と判断された残りの条項は、引き続き完全な効力を有するものとします。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;di-22tiao-zhun-ju-fa-oyobiguan-xia-cai-pan-suo&quot;&gt;第22条（準拠法および管轄裁判所）&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;The governing law of these Terms and Service Agreement shall be governed by the laws of Japan.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;The District Court within Japan shall be the exclusive court of jurisdiction in the first instance for any dispute arising out of or in connection with these Terms and Conditions or The Service Agreement.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;fu-ze&quot;&gt;附則&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;利用規約は2026年5月20日に掲載されました。&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

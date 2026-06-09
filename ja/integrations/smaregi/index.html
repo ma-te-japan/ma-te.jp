@@ -11,7 +11,7 @@
   <meta name="keywords" content="Inventory Management" />
   <meta name="author" content="Ma Te Japan" />
   <title>
-    Smaregi Integration
+    Smaregi POSを統合する
     </title>
   <!-- Imports -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -35,13 +35,60 @@
     <section class="container">
       <article class="content">
         <header class="main-top">
-          <h1 class="page-title title is-2 has-text-primary"> Smaregi Integration </h1>
+          <h1 class="page-title title is-2 has-text-primary"> Smaregi POSを統合する </h1>
           <p class="subtitle is-6">
             <time datetime="2026-05-20"> May 20, 2026 </time>
           </p>
         </header>
         <section class="content" style="padding-top: 30px;">
+          <p>Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。</p>
+<div class="container columns">
+  <div class="column is-5">
+    <form method="post" action="https:&#x2F;&#x2F;ma-te.jp&#x2F;authen&#x2F;login">
+      <h2>
+      
+        Smaregi POSを統合する
+      
+      </h2>
+      <div class="field">
+        <label class="label">
+        
+          名前
+        
+        </label>
+        <div class="control">
           
+          <input class="input" type="text" name="name" required="true" minlength="2" placeholder="e.g 綾乃先生">
+          
+        </div>
+      </div>
+      <div class="field">
+        <label class="label">
+          
+          メール
+          
+        </label>
+        <div class="control">
+          <input class="input" type="email" name="email" required="true" minlength="5" placeholder="e.g. ayano-sensei@ma-te.jp">
+        </div>
+      </div>
+      <input type="hidden" name="return_to" value="smaregi" />
+      <input type="hidden" name="lang" value="ja" />
+      <div class="buttons is-right">
+        <button href="" class="button is-primary" type="submit"> 
+          
+          統合する
+          
+        </button>
+      </div>
+    </form>
+  </div>
+  <div class="column is-offset-1 is-6">
+    <figure class="image">
+      <img src="/images/smaregi-logo.jpg" />
+    </figure>
+  </div>
+</div>
         </section>
       </article>
     </section>
@@ -85,7 +132,7 @@
       gtag('set', 'content_group', '/pages');
       gtag('event', 'select_content', {
         'content_type': 'article',
-        'content_id': '/en/integrations/thebase/'
+        'content_id': '/ja/integrations/smaregi/'
       });
     </script>
   </body>

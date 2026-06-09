@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+  
+<head>
+  <!-- Encoding -->
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.ico">
+  <!-- Meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Ma Te Japan" />
+  <meta name="keywords" content="Inventory Management" />
+  <meta name="author" content="Ma Te Japan" />
+  <title>
+    Smaregi Integration
+    </title>
+  <!-- Imports -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"
+    crossorigin="anonymous"/>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://ma-te.jp/main.css">
+  <script type="text/javascript" src="https://ma-te.jp/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+
+  <body>
+    <section class="container">
+      <article class="content">
+        <header class="main-top">
+          <h1 class="page-title title is-2 has-text-primary"> Smaregi Integration </h1>
+          <p class="subtitle is-6">
+            <time datetime="2026-05-20"> May 20, 2026 </time>
+          </p>
+        </header>
+        <section class="content" style="padding-top: 30px;">
+          
+        </section>
+      </article>
+    </section>
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63VKWL8F0B"></script>
+<script type="text/javascript" src="https://ma-te.jp/js.cookie-3.0.5.min.js" integrity="sha256-WCzAhd2P6gRJF9Hv3oOOd+hFJi/QJbv+Azn4CGB8gfY=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://ma-te.jp/MathJax-3.2.2.js" defer></script>
+<script type="text/javascript" src="https://ma-te.jp/main.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js" integrity="sha256-6EJwvQzVvfYP78JtAMKjkcsugfTSanqe4WGFpUdzo88=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js" integrity="sha256-OMcKHnypGrQOLZ5uYBKYUacX7Rx9Ssu91Bv5UDeRz2g=" crossorigin="anonymous"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+</script>
+<script>
+  function genIden(length) {
+    var result           = '';
+    var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    var charactersLength = characters.length;
+    for ( var i = 0; i < length; i++ ) {
+        result += characters.charAt(Math.floor(Math.random() * charactersLength));
+    }
+    return result;
+  }
+  let gauid = Cookies.get('gauid');
+  if (gauid == undefined) {
+    gauid = genIden(8);
+    Cookies.set('gauid', gauid);
+  }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-63VKWL8F0B', {
+    user_id: gauid
+  });
+</script>
+
+    <script type="text/javascript">
+      gtag('set', 'content_group', '/pages');
+      gtag('event', 'select_content', {
+        'content_type': 'article',
+        'content_id': '/integrations/thebase-en/'
+      });
+    </script>
+  </body>
+</html>
