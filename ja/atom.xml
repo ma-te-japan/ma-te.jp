@@ -56,9 +56,12 @@
         <id>https://ma-te.jp/ja/integrations/smaregi/</id>
         
         <content type="html" xml:base="https://ma-te.jp/ja/integrations/smaregi/">&lt;p&gt;Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。&lt;&#x2F;p&gt;
+
+
+
 &lt;div class=&quot;container columns&quot;&gt;
   &lt;div class=&quot;column is-5&quot;&gt;
-    &lt;form method=&quot;post&quot; action=&quot;https:&amp;#x2F;&amp;#x2F;ma-te.jp&amp;#x2F;authen&amp;#x2F;login&quot;&gt;
+    &lt;form method=&quot;post&quot; action=&quot;https:&amp;#x2F;&amp;#x2F;keep.ma-te.jp&amp;#x2F;authen&amp;#x2F;login&quot;&gt;
       &lt;h2&gt;
       
         Smaregi POSを統合する
