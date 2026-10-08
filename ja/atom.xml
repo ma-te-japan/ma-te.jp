@@ -4,12 +4,12 @@
     <link rel="self" type="application/atom+xml" href="https://ma-te.jp/ja/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://ma-te.jp"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-05-20T00:00:00+00:00</updated>
+    <updated>2026-10-08T00:00:00+00:00</updated>
     <id>https://ma-te.jp/ja/atom.xml</id>
     <entry xml:lang="ja">
-        <title>Smaregiとの統合が完了しました</title>
-        <published>2026-05-20T00:00:00+00:00</published>
-        <updated>2026-05-20T00:00:00+00:00</updated>
+        <title>招待状</title>
+        <published>2026-10-08T00:00:00+00:00</published>
+        <updated>2026-10-08T00:00:00+00:00</updated>
         
         <author>
           <name>
@@ -19,55 +19,19 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/smaregi-complete/"/>
-        <id>https://ma-te.jp/ja/integrations/smaregi-complete/</id>
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/pages/invitation/"/>
+        <id>https://ma-te.jp/ja/pages/invitation/</id>
         
-        <content type="html" xml:base="https://ma-te.jp/ja/integrations/smaregi-complete/">&lt;p&gt;Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。&lt;&#x2F;p&gt;
-&lt;div class=&quot;container columns&quot;&gt;
-  &lt;div class=&quot;column is-5 content&quot;&gt;
-    
-    &lt;h2&gt; ログインおわります &lt;&#x2F;h2&gt;
-    &lt;p&gt; 手順を記載したメールを送信しました。&lt;&#x2F;p&gt;
-    &lt;p&gt; メールをご確認ください。&lt;&#x2F;p&gt;
-    
-  &lt;&#x2F;div&gt;
-  &lt;div class=&quot;column is-offset-1 is-6&quot;&gt;
-    &lt;figure class=&quot;image&quot;&gt;
-      &lt;img src=&quot;&#x2F;images&#x2F;smaregi-logo.jpg&quot; &#x2F;&gt;
-    &lt;&#x2F;figure&gt;
-  &lt;&#x2F;div&gt;
-&lt;&#x2F;div&gt;</content>
-        
-    </entry>
-    <entry xml:lang="ja">
-        <title>Smaregi POSを統合する</title>
-        <published>2026-05-20T00:00:00+00:00</published>
-        <updated>2026-05-20T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Unknown
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/smaregi-success/"/>
-        <id>https://ma-te.jp/ja/integrations/smaregi-success/</id>
-        
-        <content type="html" xml:base="https://ma-te.jp/ja/integrations/smaregi-success/">&lt;p&gt;できた！&lt;&#x2F;p&gt;
-&lt;p&gt;Ma Te Japanが提供するSmaregi統合機能のインストール手順が完了しました。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;ci-niyarubekikotohayi-xia-notong-ridesu&quot;&gt;次にやるべきことは以下の通りです！&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;reception.ma-te.jp&#x2F;integrations&#x2F;smaregi&#x2F;#_1&quot;&gt;同期する製品を選択する&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
+        <content type="html" xml:base="https://ma-te.jp/ja/pages/invitation/">&lt;p&gt;Ma Te Japanでは現在、ベータプログラムにご参加いただけるレストラン、カフェ、コーヒーショップを募集しています。当社は店舗のオーナー様と1対1で協力し、POSレジ「スマレジ」にどのような機能や連携を望まれているかをヒアリングしています。Ma Te Japanのサービスは、オーナー様がスマレジ内で直接メニューや商品カタログを管理できるようにすることに特化しています。当社の連携機能によって、スマレジとUber Eats、Shopify、BASEといった主要なサービスを接続し、複数の販売チャネルを通じてビジネスを拡大し、より多くのお客様へアプローチできるようサポートいたします。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;yQbcEa9ohhQKXbEK9&quot;&gt;ご登録はこちらのリンクからお願いいたします。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;31uZ6SmngRkRLYwt8&quot;&gt;どうぞお気軽にフィードバックをお寄せください。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
     <entry xml:lang="ja">
-        <title>Smaregi POSを統合する</title>
-        <published>2026-05-20T00:00:00+00:00</published>
-        <updated>2026-05-20T00:00:00+00:00</updated>
+        <title>Smaregi Integration</title>
+        <published>2026-05-25T00:00:00+00:00</published>
+        <updated>2026-05-25T00:00:00+00:00</updated>
         
         <author>
           <name>
@@ -77,10 +41,11 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/smaregi/"/>
-        <id>https://ma-te.jp/ja/integrations/smaregi/</id>
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-start/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-start/</id>
         
-        <content type="html" xml:base="https://ma-te.jp/ja/integrations/smaregi/">&lt;p&gt;Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-start/">&lt;p&gt;日本語 - Ma Te Japan provides this integration with Uber Eats. Allowing you to automatically sync your Store&#x27;s Product Catalog or Restaurant&#x27;s Menu to Uber Eats. Ma Te Japan tracks orders created by Uber Eats User&#x27;s and syncorinzes the stock updates back to your Smaregi Point of Sale.&lt;&#x2F;p&gt;
+&lt;p&gt;Basic integration with Uber Eats will require you to monitor the Uber Eats app to confirm orders. More advanced integrations with Ma Te Japan can be implemented using our secure services and send Order Tickets directly to your kitchen line.&lt;&#x2F;p&gt;
 
 
 
@@ -89,7 +54,7 @@
     &lt;form method=&quot;post&quot; action=&quot;https:&amp;#x2F;&amp;#x2F;keep.ma-te.jp&amp;#x2F;authen&amp;#x2F;login&quot;&gt;
       &lt;h2&gt;
       
-        Smaregi POSを統合する
+      Smaregi POSを統合する with Uber Eats
       
       &lt;&#x2F;h2&gt;
       &lt;div class=&quot;field&quot;&gt;
@@ -114,8 +79,9 @@
           &lt;input class=&quot;input&quot; type=&quot;email&quot; name=&quot;email&quot; required=&quot;true&quot; minlength=&quot;5&quot; placeholder=&quot;e.g. ayano-sensei@ma-te.jp&quot;&gt;
         &lt;&#x2F;div&gt;
       &lt;&#x2F;div&gt;
-      &lt;input type=&quot;hidden&quot; name=&quot;return_to&quot; value=&quot;smaregi&quot; &#x2F;&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;return_to&quot; value=&quot;sma-regi-and-the-base&quot; &#x2F;&gt;
       &lt;input type=&quot;hidden&quot; name=&quot;lang&quot; value=&quot;ja&quot; &#x2F;&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;csrf_token&quot; value=&quot;default&quot; &#x2F;&gt;
       &lt;div class=&quot;buttons is-right&quot;&gt;
         &lt;button href=&quot;&quot; class=&quot;button is-primary&quot; type=&quot;submit&quot;&gt; 
           
@@ -127,10 +93,300 @@
   &lt;&#x2F;div&gt;
   &lt;div class=&quot;column is-offset-1 is-6&quot;&gt;
     &lt;figure class=&quot;image&quot;&gt;
+      &lt;img src=&quot;&amp;#x2F;images&amp;#x2F;smaregi-logo.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;figure&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;script type=&quot;text&#x2F;javascript&quot;&gt;
+  function generate_token(length) {
+    const chars = &#x27;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789&#x27;;
+    const randomValues = new Uint32Array(length);
+    window.crypto.getRandomValues(randomValues);
+    let token = &#x27;&#x27;;
+    for (let i = 0; i &lt; length; i++) {
+        token += chars[randomValues[i] % chars.length];
+    }  
+    return token;
+  }
+  $(document).ready(function () {
+    const token = generate_token(25);
+    let url = null;
+    if (window.location.hostname == &#x27;localhost&#x27;) {
+      url = `https:&#x2F;&#x2F;keep.ma-te-link.dev&#x2F;authen&#x2F;login?token=${token}`;
+    } else {
+      url = `https:&#x2F;&#x2F;${window.location.hostname}&#x2F;authen&#x2F;login?token=${token}`;
+    }
+    $.ajax(url, {
+      method: &#x27;get&#x27;,
+      contentType: &#x27;text&#x2F;plain&#x27;,
+      async: true,
+      success: function (data, status) {
+        $(&#x27;input[name=csrf_token]&#x27;).val(data);
+      },
+      error: function (_xhr, status, error) {
+        $(&#x27;input[name=csrf_token]&#x27;).val(&#x27;Token Retrieval Issue&#x27;);
+      }
+    })
+  })
+&lt;&#x2F;script&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregi Integration Complete</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-complete/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-complete/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-complete/">&lt;p&gt;English - Ma Te Japan Inventory Management provides key integration with Smaregi POS. As you make sales throughout the day, Ma Te Japan will monitor your Inventory for Stock changes and Order Submissions. It&#x27;ll than take that information and make decisions on how to update various eCommerence platfroms such as TheBase.in, Shopify, WooCommerce, and more.&lt;&#x2F;p&gt;
+&lt;div class=&quot;container columns&quot;&gt;
+  &lt;div class=&quot;column is-5 content&quot;&gt;
+    
+    &lt;h2&gt; ログインおわります &lt;&#x2F;h2&gt;
+    &lt;p&gt; 手順を記載したメールを送信しました。&lt;&#x2F;p&gt;
+    &lt;p&gt; メールをご確認ください。&lt;&#x2F;p&gt;
+    
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;column is-offset-1 is-6&quot;&gt;
+    &lt;figure class=&quot;image&quot;&gt;
       &lt;img src=&quot;&#x2F;images&#x2F;smaregi-logo.jpg&quot; &#x2F;&gt;
     &lt;&#x2F;figure&gt;
   &lt;&#x2F;div&gt;
 &lt;&#x2F;div&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregi Integration with TheBase.com Error</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-error/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-error/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-error/">&lt;p&gt;日本語 - Smaregi Integration with TheBase.com Error&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregi POSを統合する</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-start/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-start/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-start/">&lt;p&gt;日本語 - Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。&lt;&#x2F;p&gt;
+
+
+
+&lt;div class=&quot;container columns&quot;&gt;
+  &lt;div class=&quot;column is-5&quot;&gt;
+    &lt;form method=&quot;post&quot; action=&quot;https:&amp;#x2F;&amp;#x2F;keep.ma-te.jp&amp;#x2F;authen&amp;#x2F;login&quot;&gt;
+      &lt;h2&gt;
+      
+      Smaregi POSを統合する with TheBase.com
+      
+      &lt;&#x2F;h2&gt;
+      &lt;div class=&quot;field&quot;&gt;
+        &lt;label class=&quot;label&quot;&gt;
+        
+          名前
+        
+        &lt;&#x2F;label&gt;
+        &lt;div class=&quot;control&quot;&gt;
+          
+          &lt;input class=&quot;input&quot; type=&quot;text&quot; name=&quot;name&quot; required=&quot;true&quot; minlength=&quot;2&quot; placeholder=&quot;e.g 綾乃先生&quot;&gt;
+          
+        &lt;&#x2F;div&gt;
+      &lt;&#x2F;div&gt;
+      &lt;div class=&quot;field&quot;&gt;
+        &lt;label class=&quot;label&quot;&gt;
+          
+          メール
+          
+        &lt;&#x2F;label&gt;
+        &lt;div class=&quot;control&quot;&gt;
+          &lt;input class=&quot;input&quot; type=&quot;email&quot; name=&quot;email&quot; required=&quot;true&quot; minlength=&quot;5&quot; placeholder=&quot;e.g. ayano-sensei@ma-te.jp&quot;&gt;
+        &lt;&#x2F;div&gt;
+      &lt;&#x2F;div&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;return_to&quot; value=&quot;sma-regi-and-the-base&quot; &#x2F;&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;lang&quot; value=&quot;ja&quot; &#x2F;&gt;
+      &lt;input type=&quot;hidden&quot; name=&quot;csrf_token&quot; value=&quot;default&quot; &#x2F;&gt;
+      &lt;div class=&quot;buttons is-right&quot;&gt;
+        &lt;button href=&quot;&quot; class=&quot;button is-primary&quot; type=&quot;submit&quot;&gt; 
+          
+          統合する
+          
+        &lt;&#x2F;button&gt;
+      &lt;&#x2F;div&gt;
+    &lt;&#x2F;form&gt;
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;column is-offset-1 is-6&quot;&gt;
+    &lt;figure class=&quot;image&quot;&gt;
+      &lt;img src=&quot;&amp;#x2F;images&amp;#x2F;smaregi-logo.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;figure&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;script type=&quot;text&#x2F;javascript&quot;&gt;
+  function generate_token(length) {
+    const chars = &#x27;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789&#x27;;
+    const randomValues = new Uint32Array(length);
+    window.crypto.getRandomValues(randomValues);
+    let token = &#x27;&#x27;;
+    for (let i = 0; i &lt; length; i++) {
+        token += chars[randomValues[i] % chars.length];
+    }  
+    return token;
+  }
+  $(document).ready(function () {
+    const token = generate_token(25);
+    let url = null;
+    if (window.location.hostname == &#x27;localhost&#x27;) {
+      url = `https:&#x2F;&#x2F;keep.ma-te-link.dev&#x2F;authen&#x2F;login?token=${token}`;
+    } else {
+      url = `https:&#x2F;&#x2F;${window.location.hostname}&#x2F;authen&#x2F;login?token=${token}`;
+    }
+    $.ajax(url, {
+      method: &#x27;get&#x27;,
+      contentType: &#x27;text&#x2F;plain&#x27;,
+      async: true,
+      success: function (data, status) {
+        $(&#x27;input[name=csrf_token]&#x27;).val(data);
+      },
+      error: function (_xhr, status, error) {
+        $(&#x27;input[name=csrf_token]&#x27;).val(&#x27;Token Retrieval Issue&#x27;);
+      }
+    })
+  })
+&lt;&#x2F;script&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregi POS Integration</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-success/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-success/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-the-base-success/">&lt;p&gt;Finished!&lt;&#x2F;p&gt;
+&lt;p&gt;You&#x27;ve completed the process of installing the Smaregi Integration into Ma Te Japan provides.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;here-is-what-to-do-next&quot;&gt;Here is what to do next!&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;reception.ma-te.jp&#x2F;integrations&#x2F;smaregi&#x2F;#selecting-which-products-to-sync&quot;&gt;How to manage Smaregi with Ma Te Japan&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregiとの統合が完了しました</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-complete/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-complete/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-complete/">&lt;p&gt;日本語 - Ma Te Japanの在庫管理システムは、Smaregi POSとの重要な連携機能を提供します。一日を通して販売が行われると、Ma Te Japanは在庫状況の変化や注文の送信状況を監視します。そして、その情報に基づいて、TheBase.in、Shopify、WooCommerceなどの様々なeコマースプラットフォームへの情報更新方法を決定します。&lt;&#x2F;p&gt;
+&lt;div class=&quot;container columns&quot;&gt;
+  &lt;div class=&quot;column is-5 content&quot;&gt;
+    
+    &lt;h2&gt; ログインおわります &lt;&#x2F;h2&gt;
+    &lt;p&gt; 手順を記載したメールを送信しました。&lt;&#x2F;p&gt;
+    &lt;p&gt; メールをご確認ください。&lt;&#x2F;p&gt;
+    
+  &lt;&#x2F;div&gt;
+  &lt;div class=&quot;column is-offset-1 is-6&quot;&gt;
+    &lt;figure class=&quot;image&quot;&gt;
+      &lt;img src=&quot;&#x2F;images&#x2F;smaregi-logo.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;figure&gt;
+  &lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregi Integration with Uber Eats Error</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-error/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-error/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-error/">&lt;p&gt;日本語 - Smaregi Integration with Uber Eats Error&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ja">
+        <title>Smaregi POSを統合する</title>
+        <published>2026-05-20T00:00:00+00:00</published>
+        <updated>2026-05-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-success/"/>
+        <id>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-success/</id>
+        
+        <content type="html" xml:base="https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-success/">&lt;p&gt;できた！&lt;&#x2F;p&gt;
+&lt;p&gt;Ma Te Japanが提供するSmaregi統合機能のインストール手順が完了しました。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ci-niyarubekikotohayi-xia-notong-ridesu&quot;&gt;次にやるべきことは以下の通りです！&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;reception.ma-te.jp&#x2F;integrations&#x2F;smaregi&#x2F;#_1&quot;&gt;同期する製品を選択する&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
         
     </entry>
     <entry xml:lang="ja">
@@ -149,59 +405,7 @@
         <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/pages/cookie-policy/"/>
         <id>https://ma-te.jp/ja/pages/cookie-policy/</id>
         
-        <content type="html" xml:base="https://ma-te.jp/ja/pages/cookie-policy/">&lt;h2 id=&quot;1-kutukitoha&quot;&gt;1. クッキーとは&lt;&#x2F;h2&gt;
-&lt;p&gt;Cookieとは、ウェブサイトへのアクセス履歴を記録するために、ウェブサイトからお客様のデバイスに送信されるテキストファイルです。お客様が訪問したウェブサイトの履歴が記録されます。この情報には、特定の個人を特定できる情報は含まれません。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;2-kutukinoli-yong-nituite&quot;&gt;2. クッキーの利用について&lt;&#x2F;h2&gt;
-&lt;p&gt;当ウェブサイトではクッキー技術を使用しています。クッキーを無効にすることも可能ですが、ウェブサイトの機能が正常に動作しない場合があります。&lt;&#x2F;p&gt;
-&lt;p&gt;当社は、サービスの向上を目的として、以下の目的でクッキーを使用します。&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;about-the-analysis-and-use-of-cookies&quot;&gt;About the analysis and use of cookies&lt;&#x2F;h3&gt;
-&lt;p&gt;ウェブサイトの利便性とパフォーマンスを向上させるため、当社は以下のサービスを利用してウェブサイトの利用状況を収集、記録、分析しています。これらのサービスに送信される情報、利用規約、プライバシーポリシー、および無効化設定については、下記をご覧ください。&lt;&#x2F;p&gt;
-&lt;h4 id=&quot;google-analytics-google-llc&quot;&gt;Google Analytics (Google LLC.)&lt;&#x2F;h4&gt;
-&lt;p&gt;Google Analyticsに送信される情報：デバイス&#x2F;ブラウザ、送信元IPアドレス、サイト訪問者のアクセス履歴、およびGoogle Analyticsによってサイト訪問者に付与された広告IDに関するデータ&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;[https:&#x2F;&#x2F;marketingplatform.google.com&#x2F;about&#x2F;analytics&#x2F;terms&#x2F;jp&#x2F;](Google Analytics Terms of Use)&lt;&#x2F;li&gt;
-&lt;li&gt;[https:&#x2F;&#x2F;policies.google.com&#x2F;privacy?hl=ja](Google Privacy Policy)&lt;&#x2F;li&gt;
-&lt;li&gt;[https:&#x2F;&#x2F;tools.google.com&#x2F;dlpage&#x2F;gaoptout](Google Analytics Opt Out Addon)&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h4 id=&quot;sitest-glad-cube-inc&quot;&gt;SiTest (Glad Cube Inc.)&lt;&#x2F;h4&gt;
-&lt;p&gt;SiTestに送信される情報：SiTestによってサイト訪問者に付与されたID&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;clarity.microsoft.com&#x2F;terms&quot;&gt;Microsoft Clarity - Terms of Use&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;privacy.microsoft.com&#x2F;ja-jp&#x2F;privacystatement&quot;&gt;Microsoft Privacy Statement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;sitest.jp&#x2F;optout.html&quot;&gt;SiTest Opt-Out&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;maketeinguhuo-dong-henoli-yong&quot;&gt;マーケティング活動への利用&lt;&#x2F;h3&gt;
-&lt;p&gt;当社は、ウェブサイトを訪問されたお客様からクッキーを取得・利用し、各社が提供するサービスに関連する広告を配信するために、以下の広告配信事業者と提携しています。これらの事業者に送信される情報、プライバシーポリシー、および無効化設定については、下記をご覧ください。&lt;&#x2F;p&gt;
-&lt;h4 id=&quot;google-ads-google-llc&quot;&gt;Google Ads (Google LLC.)&lt;&#x2F;h4&gt;
-&lt;p&gt;Googleに送信される情報：訪問者のアクセス履歴&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;policies.google.com&#x2F;terms?hl=ja&quot;&gt;Google Policies and Terms&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;myadcenter.google.com&#x2F;&quot;&gt;Customize MyAd Settings by Google&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h4 id=&quot;facebook-ads-meta-platforms-inc&quot;&gt;Facebook Ads (Meta Platforms, Inc.)&lt;&#x2F;h4&gt;
-&lt;p&gt;Facebookに送信される情報：「いいね！」ボタン、FacebookページとFacebookプロフィールの情報、サイト訪問者のアクセス履歴&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;privacy&#x2F;policy&quot;&gt;Meta Privacy Policy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;about&#x2F;ads&#x2F;&quot;&gt;About Facebook Ads&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;3-burauzanoshe-ding-niyorikutukiwowu-xiao-nisurufang-fa&quot;&gt;3. ブラウザの設定によりクッキーを無効にする方法&lt;&#x2F;h2&gt;
-&lt;p&gt;お使いのデバイスに保存されるCookieは、一定期間保存されます（ユーザー自身で削除することも可能です）。ほとんどのブラウザでは、初期設定でCookieの受け入れが有効になっていますが、ブラウザの設定を変更することでCookieを無効にすることもできます。ただし、Cookieを無効にすると、ウェブサイトが正しく動作しなくなる場合があります。一般的なブラウザでCookieの設定を変更する方法は以下のとおりです。&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.google.com&#x2F;chrome&#x2F;answer&#x2F;95647&quot;&gt;Google Chrome&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.apple.com&#x2F;ja-jp&#x2F;guide&#x2F;safari&#x2F;sfri11471&#x2F;mac&quot;&gt;Apple Safari (macOS)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.apple.com&#x2F;ja-jp&#x2F;HT201265&quot;&gt;Apple Safari (iOS&#x2F;iPad OS)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.microsoft.com&#x2F;ja-jp&#x2F;windows&#x2F;microsoft-edge-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd&quot;&gt;Microsoft Edge&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;support.mozilla.org&#x2F;ja&#x2F;kb&#x2F;cookies-information-websites-store-on-your-computer&quot;&gt;Mozilla Firefox&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;4-ben-porisinogai-ding-nituite&quot;&gt;4. 本ポリシーの改定について&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;当社は、本ポリシーに記載されているクッキーの取り扱いについて、継続的に見直し、改善していきます。&lt;&#x2F;li&gt;
-&lt;li&gt;当社は、クッキーの適切な取り扱いを実践するため、本ポリシーの内容を随時改訂することがあります。改訂履歴は、本ポリシーの補足規定に掲載されます。ご利用の際は、最新の内容をご確認ください。&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;fu-ze&quot;&gt;附則&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ポリシー掲載日：2026年5月20日&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
+        <content type="html" xml:base="https://ma-te.jp/ja/pages/cookie-policy/">&lt;p&gt;Translation pending&lt;&#x2F;p&gt;
 </content>
         
     </entry>

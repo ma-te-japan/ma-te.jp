@@ -7,15 +7,35 @@
         <loc>https://ma-te.jp/integrations/</loc>
     </url>
     <url>
-        <loc>https://ma-te.jp/integrations/smaregi-complete-en/</loc>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-the-base-complete/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
-        <loc>https://ma-te.jp/integrations/smaregi-en/</loc>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-the-base-error/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
-        <loc>https://ma-te.jp/integrations/smaregi-success-en/</loc>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-the-base-start/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-the-base-success/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-uber-eats-complete/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-uber-eats-error/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-uber-eats-start/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/integrations/sma-regi-and-uber-eats-success/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
@@ -32,20 +52,44 @@
         <loc>https://ma-te.jp/ja/categories/</loc>
     </url>
     <url>
-        <loc>https://ma-te.jp/ja/integrations/smaregi-complete/</loc>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-complete/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
-        <loc>https://ma-te.jp/ja/integrations/smaregi-success/</loc>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-error/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
-        <loc>https://ma-te.jp/ja/integrations/smaregi/</loc>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-start/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-the-base-success/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-complete/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-error/</loc>
+        <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-start/</loc>
+        <lastmod>2026-05-25</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/integrations/sma-regi-and-uber-eats-success/</loc>
         <lastmod>2026-05-20</lastmod>
     </url>
     <url>
         <loc>https://ma-te.jp/ja/pages/cookie-policy/</loc>
         <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/ja/pages/invitation/</loc>
+        <lastmod>2026-10-08</lastmod>
     </url>
     <url>
         <loc>https://ma-te.jp/ja/pages/privacy-policy/</loc>
@@ -61,6 +105,10 @@
     <url>
         <loc>https://ma-te.jp/pages/cookie-policy-en/</loc>
         <lastmod>2026-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ma-te.jp/pages/invitation/</loc>
+        <lastmod>2026-10-08</lastmod>
     </url>
     <url>
         <loc>https://ma-te.jp/pages/privacy-policy-en/</loc>

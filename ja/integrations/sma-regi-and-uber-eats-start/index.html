@@ -11,7 +11,7 @@
   <meta name="keywords" content="Inventory Management" />
   <meta name="author" content="Ma Te Japan" />
   <title>
-    Cookie Policy
+    Smaregi Integration
     </title>
   <!-- Imports -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -40,14 +40,97 @@
       <br/>
       <article class="content">
         <header class="main-top">
-          <h1 class="page-title title is-2 has-text-primary"> Cookie Policy </h1>
+          <h1 class="page-title title is-2 has-text-primary"> Smaregi Integration </h1>
           <p class="subtitle is-6">
-            <time datetime="2026-05-20"> May 20, 2026 </time>
+            <time datetime="2026-05-25"> May 25, 2026 </time>
           </p>
         </header>
         <section class="content" style="padding-top: 30px;">
-          <p>Translation pending</p>
+          <p>日本語 - Ma Te Japan provides this integration with Uber Eats. Allowing you to automatically sync your Store's Product Catalog or Restaurant's Menu to Uber Eats. Ma Te Japan tracks orders created by Uber Eats User's and syncorinzes the stock updates back to your Smaregi Point of Sale.</p>
+<p>Basic integration with Uber Eats will require you to monitor the Uber Eats app to confirm orders. More advanced integrations with Ma Te Japan can be implemented using our secure services and send Order Tickets directly to your kitchen line.</p>
 
+
+
+<div class="container columns">
+  <div class="column is-5">
+    <form method="post" action="https:&#x2F;&#x2F;keep.ma-te.jp&#x2F;authen&#x2F;login">
+      <h2>
+      
+      Smaregi POSを統合する with Uber Eats
+      
+      </h2>
+      <div class="field">
+        <label class="label">
+        
+          名前
+        
+        </label>
+        <div class="control">
+          
+          <input class="input" type="text" name="name" required="true" minlength="2" placeholder="e.g 綾乃先生">
+          
+        </div>
+      </div>
+      <div class="field">
+        <label class="label">
+          
+          メール
+          
+        </label>
+        <div class="control">
+          <input class="input" type="email" name="email" required="true" minlength="5" placeholder="e.g. ayano-sensei@ma-te.jp">
+        </div>
+      </div>
+      <input type="hidden" name="return_to" value="sma-regi-and-the-base" />
+      <input type="hidden" name="lang" value="ja" />
+      <input type="hidden" name="csrf_token" value="default" />
+      <div class="buttons is-right">
+        <button href="" class="button is-primary" type="submit"> 
+          
+          統合する
+          
+        </button>
+      </div>
+    </form>
+  </div>
+  <div class="column is-offset-1 is-6">
+    <figure class="image">
+      <img src="&#x2F;images&#x2F;smaregi-logo.jpg" />
+    </figure>
+  </div>
+</div>
+<script type="text/javascript">
+  function generate_token(length) {
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    const randomValues = new Uint32Array(length);
+    window.crypto.getRandomValues(randomValues);
+    let token = '';
+    for (let i = 0; i < length; i++) {
+        token += chars[randomValues[i] % chars.length];
+    }  
+    return token;
+  }
+  $(document).ready(function () {
+    const token = generate_token(25);
+    let url = null;
+    if (window.location.hostname == 'localhost') {
+      url = `https://keep.ma-te-link.dev/authen/login?token=${token}`;
+    } else {
+      url = `https://${window.location.hostname}/authen/login?token=${token}`;
+    }
+    $.ajax(url, {
+      method: 'get',
+      contentType: 'text/plain',
+      async: true,
+      success: function (data, status) {
+        $('input[name=csrf_token]').val(data);
+      },
+      error: function (_xhr, status, error) {
+        $('input[name=csrf_token]').val('Token Retrieval Issue');
+      }
+    })
+  })
+</script>
         </section>
       </article>
     </section>
@@ -91,7 +174,7 @@
       gtag('set', 'content_group', '/pages');
       gtag('event', 'select_content', {
         'content_type': 'article',
-        'content_id': '/ja/pages/cookie-policy/'
+        'content_id': '/ja/integrations/sma-regi-and-uber-eats-start/'
       });
     </script>
   </body>
