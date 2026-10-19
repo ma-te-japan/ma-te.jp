@@ -7,7 +7,7 @@
     <updated>2026-10-08T00:00:00+00:00</updated>
     <id>https://ma-te.jp/ja/atom.xml</id>
     <entry xml:lang="ja">
-        <title>招待状</title>
+        <title>Invitation</title>
         <published>2026-10-08T00:00:00+00:00</published>
         <updated>2026-10-08T00:00:00+00:00</updated>
         
@@ -23,11 +23,11 @@
         <id>https://ma-te.jp/ja/pages/invitation/</id>
         
         <content type="html" xml:base="https://ma-te.jp/ja/pages/invitation/">&lt;p&gt;店支持&lt;&#x2F;p&gt;
-&lt;p&gt;お店のオーナー様方とお話ししながら、日本語を学んでいきたいと考えております。&lt;&#x2F;p&gt;
-&lt;p&gt;敬語の練習を兼ねてお話しさせていただきますので、温かい目で見守っていただけますと幸いです。&lt;&#x2F;p&gt;
-&lt;p&gt;Ma Te Japanでは現在、ベータプログラムにご参加いただけるレストラン、カフェ、コーヒーショップを募集しています。当社は店舗のオーナー様と1対1で協力し、POSレジ「スマレジ」にどのような機能や連携を望まれているかをヒアリングしています。Ma Te Japanのサービスは、オーナー様がスマレジ内で直接メニューや商品カタログを管理できるようにすることに特化しています。当社の連携機能によって、スマレジとUber Eats、Shopify、BASEといった主要なサービスを接続し、複数の販売チャネルを通じてビジネスを拡大し、より多くのお客様へアプローチできるようサポートいたします。&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;yQbcEa9ohhQKXbEK9&quot;&gt;ご登録はこちらのリンクからお願いいたします。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;31uZ6SmngRkRLYwt8&quot;&gt;どうぞお気軽にフィードバックをお寄せください。&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;d like to learn Japanese, by talking to Shop Owners.&lt;&#x2F;p&gt;
+&lt;p&gt;I will be using this as an opportunity to practice my use of 敬語, I would appreciate your kind understanding and patience.&lt;&#x2F;p&gt;
+&lt;p&gt;Ma Te Japan is currently searching for Restaurants, Cafes, and Coffee Shops to join our beta program. We work one on one with shop owners, to learn what they&#x27;re interested in seeing built into &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;smaregi.jp&#x2F;&quot;&gt;Smaregi&lt;&#x2F;a&gt;. Point of Sales. Ma Te Japan focuses on allowing you, the shop owner, to manage your menu or product catalogue in Smaregi directly. Our integrations then connect to common services such as Uber Eats, Shopify.com, TheBase.com, and more. Providing your business with multiple sales channels to conduct business and reach more customers.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;yQbcEa9ohhQKXbEK9&quot;&gt;Please use this link to register.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;31uZ6SmngRkRLYwt8&quot;&gt;Please feel welcome to share your feedback with us.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
