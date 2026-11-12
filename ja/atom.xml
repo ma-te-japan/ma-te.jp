@@ -676,14 +676,9 @@
         <link rel="alternate" type="text/html" href="https://ma-te.jp/ja/pages/terms-of-service/"/>
         <id>https://ma-te.jp/ja/pages/terms-of-service/</id>
         
-        <content type="html" xml:base="https://ma-te.jp/ja/pages/terms-of-service/">&lt;ul&gt;
-&lt;li&gt;Editor Notes
-&lt;ul&gt;
-&lt;li&gt;Change Ma Te Japan -&amp;gt; 当社&lt;&#x2F;li&gt;
-&lt;li&gt;Change 本利用規約 -&amp;gt; 本規約 ( Shorter Version )&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
+        <content type="html" xml:base="https://ma-te.jp/ja/pages/terms-of-service/">&lt;!-- - Editor Notes
+  - Change Ma Te Japan -&gt; 当社
+  - Change 本利用規約 -&gt; 本規約 ( Shorter Version ) --&gt;
 &lt;h2 id=&quot;ma-te-japanli-yong-gui-yue&quot;&gt;Ma Te Japan利用規約&lt;&#x2F;h2&gt;
 &lt;p&gt;本利用規約（以下「本規約」といいます）は、Ma Te Japan（以下「当社」といいます）が提供するサービス（以下「本サービス」といいます）の条件、および当社と本サービスの利用者（以下「利用者」といいます）との間の権利義務を規定するものです。本サービスをご利用になる際は、本規約全文をお読みになり、同意いただく必要があります。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;di-1tiao-shi-yong&quot;&gt;第1条（適用）&lt;&#x2F;h2&gt;
